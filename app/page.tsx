@@ -42,3 +42,9 @@ export default function Home() {
     </main>
   );
 }
+<a
+  href="https://wa.me/34666555111"
+  className="inline-block mt-6 border rounded-lg px-4 py-2 hover:shadow"
+>
+  Hablar por WhatsApp
+</a>
