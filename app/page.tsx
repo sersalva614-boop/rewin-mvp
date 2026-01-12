@@ -20,11 +20,11 @@ export default function Home() {
   return (
     <main className="p-8">
       <h1 className="text-3xl font-bold mb-6">
-        iPhones reacondicionados Rewin
+        Rewin — iPhones reacondicionados sin riesgos
       </h1>
 
       <p className="mb-8 text-slate-600">
-        Dispositivos revisados, con batería mínima garantizada y 12 meses de garantía.
+        Revisados, con batería mínima garantizada (≥85%), 12 meses de garantía y 14 días de devolución.
       </p>
 
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
